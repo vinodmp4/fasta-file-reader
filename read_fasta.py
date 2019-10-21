@@ -1,3 +1,5 @@
+# Created by Vinod M P
+
 inputfilename = 'test.fasta'                                    # Change the filename here.
 
 output_dictionary = {}                                          # This is the output storing dictionary.
