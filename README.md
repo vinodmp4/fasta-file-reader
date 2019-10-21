@@ -1,5 +1,5 @@
-# fasta-file-reader
-This python program will read fasta file and store it in a dictionary.
+# fasta-pack
+These programs will process fasta file
 
 # ---------------------------------------------------------------
 FASTA files are text-based format for storing nucleotide / peptide sequences.
@@ -16,7 +16,4 @@ Example:
     GAGCAGCAGCTGCAGTGAGGTGACGGAGCTCCAGAGGGTGTTCCAGGGCCTGGAGATGGAGCTGCAGTCC
     CAGCTCAGCATANNNNNGATCCAGGGACTGATTGGCAGTGTGGAGGAGCAGCTGGCCCAGCTATGCTGTG
     AGATGGAGCAGCAGAGCCGGGAGTACCAGATCTTGCTGGACATGAAGACACGGCTGGAGCAGGAGATCGC
-    
-
-In this python program, the specified file is opened and processed to store individual 
-sequence data into a dictionary.
+   
